@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "qunit": "^0.9.1",
+    "mocha": "^3.2"
+  }
+}
