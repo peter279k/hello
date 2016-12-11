@@ -1,5 +1,5 @@
 var assert = require('assert');
-var hello = require('../hello.js')();
+require('../hello.js')();
 
 describe('Hello', function() {
     describe('#indexOf()', function() {
